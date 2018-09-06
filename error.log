@@ -1,0 +1,151 @@
+[Thu Sep 06 09:19:19.006056 2018] [:error] [pid 3733] [client 127.0.0.1:57160] script '/var/www/html/practicehtml/otherfile.php' not found or unable to stat
+[Thu Sep 06 09:25:56.622144 2018] [:error] [pid 3783] [client 127.0.0.1:57250] PHP Warning:  Unterminated comment starting line 9 in /var/www/html/practicehtml/index.php on line 9
+[Thu Sep 06 09:34:39.418358 2018] [:error] [pid 3734] [client 127.0.0.1:57388] PHP Parse error:  syntax error, unexpected end of file in /var/www/html/practicehtml/upload_image.php on line 10, referer: http://localhost/image_upload.html
+[Thu Sep 06 09:38:31.116919 2018] [:error] [pid 3735] [client 127.0.0.1:57408] PHP Notice:  Array to string conversion in /var/www/html/practicehtml/upload_image.php on line 24, referer: http://localhost/image_upload.html
+[Thu Sep 06 09:38:34.450540 2018] [:error] [pid 3783] [client 127.0.0.1:57410] PHP Notice:  Array to string conversion in /var/www/html/practicehtml/upload_image.php on line 24, referer: http://localhost/image_upload.html
+[Thu Sep 06 09:57:41.502356 2018] [:error] [pid 3732] [client 127.0.0.1:57820] PHP Notice:  Only variables should be passed by reference in /var/www/html/practicehtml/upload_image.php on line 7, referer: http://localhost/image_upload.html
+[Thu Sep 06 09:57:41.502522 2018] [:error] [pid 3732] [client 127.0.0.1:57820] PHP Warning:  move_uploaded_file(uploads/images/Screenshot from 2018-09-06 09-25-48.png): failed to open stream: No such file or directory in /var/www/html/practicehtml/upload_image.php on line 18, referer: http://localhost/image_upload.html
+[Thu Sep 06 09:57:41.502562 2018] [:error] [pid 3732] [client 127.0.0.1:57820] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpvr4qen' to 'uploads/images/Screenshot from 2018-09-06 09-25-48.png' in /var/www/html/practicehtml/upload_image.php on line 18, referer: http://localhost/image_upload.html
+[Thu Sep 06 10:55:33.358014 2018] [:error] [pid 3734] [client 127.0.0.1:59852] PHP Warning:  preg_match(): Unknown modifier '&amp;' in /var/www/html/practicehtml/validate_signup.php on line 34, referer: http://localhost/signup.html
+[Thu Sep 06 10:56:11.849646 2018] [:error] [pid 3735] [client 127.0.0.1:59864] PHP Warning:  preg_match(): Unknown modifier '&amp;' in /var/www/html/practicehtml/validate_signup.php on line 34, referer: http://localhost/signup.html
+[Thu Sep 06 11:09:28.349156 2018] [:error] [pid 3735] [client 127.0.0.1:60028] PHP Notice:  Use of undefined constant error - assumed 'error' in /var/www/html/practicehtml/validate_signup.php on line 13, referer: http://localhost/signup.html
+[Thu Sep 06 11:09:28.349206 2018] [:error] [pid 3735] [client 127.0.0.1:60028] PHP Notice:  Use of undefined constant error - assumed 'error' in /var/www/html/practicehtml/validate_signup.php on line 23, referer: http://localhost/signup.html
+[Thu Sep 06 11:09:28.349218 2018] [:error] [pid 3735] [client 127.0.0.1:60028] PHP Notice:  Use of undefined constant error - assumed 'error' in /var/www/html/practicehtml/validate_signup.php on line 33, referer: http://localhost/signup.html
+[Thu Sep 06 11:09:28.349284 2018] [:error] [pid 3735] [client 127.0.0.1:60028] PHP Notice:  Use of undefined constant error - assumed 'error' in /var/www/html/practicehtml/validate_signup.php on line 37, referer: http://localhost/signup.html
+[Thu Sep 06 11:13:05.238150 2018] [:error] [pid 3783] [client 127.0.0.1:60170] PHP Parse error:  syntax error, unexpected end of file in /var/www/html/practicehtml/validate_signup.php on line 61, referer: http://localhost/signup.html
+[Thu Sep 06 11:13:44.054487 2018] [:error] [pid 3731] [client 127.0.0.1:60174] PHP Parse error:  syntax error, unexpected end of file in /var/www/html/practicehtml/validate_signup.php on line 61, referer: http://localhost/signup.html
+[Thu Sep 06 11:13:51.152543 2018] [:error] [pid 3732] [client 127.0.0.1:60178] PHP Parse error:  syntax error, unexpected end of file in /var/www/html/practicehtml/validate_signup.php on line 61, referer: http://localhost/signup.html
+[Thu Sep 06 11:23:49.859886 2018] [:error] [pid 3735] [client 127.0.0.1:60328] PHP Parse error:  syntax error, unexpected end of file in /var/www/html/practicehtml/validate_signup.php on line 51, referer: http://localhost/signup.html
+[Thu Sep 06 11:29:28.595371 2018] [:error] [pid 3733] [client 127.0.0.1:60568] PHP Warning:  Unterminated comment starting line 54 in /var/www/html/practicehtml/validate_signup.php on line 54, referer: http://localhost/signup.html
+[Thu Sep 06 11:30:22.535723 2018] [:error] [pid 3783] [client 127.0.0.1:60576] PHP Warning:  Unterminated comment starting line 54 in /var/www/html/practicehtml/validate_signup.php on line 54, referer: http://localhost/signup.html
+[Thu Sep 06 11:30:40.126495 2018] [:error] [pid 3731] [client 127.0.0.1:60590] PHP Warning:  Unterminated comment starting line 54 in /var/www/html/practicehtml/validate_signup.php on line 54, referer: http://localhost/signup.html
+[Thu Sep 06 11:31:29.417750 2018] [:error] [pid 3732] [client 127.0.0.1:60598] PHP Warning:  Unterminated comment starting line 54 in /var/www/html/practicehtml/validate_signup.php on line 54, referer: http://localhost/signup.html
+[Thu Sep 06 11:32:24.248245 2018] [:error] [pid 3733] [client 127.0.0.1:60606] PHP Parse error:  syntax error, unexpected '{' in /var/www/html/practicehtml/validate_signup.php on line 43, referer: http://localhost/signup.html
+[Thu Sep 06 11:32:52.483922 2018] [:error] [pid 3734] [client 127.0.0.1:60610] PHP Warning:  Unterminated comment starting line 54 in /var/www/html/practicehtml/validate_signup.php on line 54, referer: http://localhost/signup.html
+[Thu Sep 06 11:38:11.553185 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: HTTP_REFERER in /var/www/html/practicehtml/validate_signup.php on line 3
+[Thu Sep 06 11:38:11.553263 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: name in /var/www/html/practicehtml/validate_signup.php on line 9
+[Thu Sep 06 11:38:11.553288 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: email in /var/www/html/practicehtml/validate_signup.php on line 20
+[Thu Sep 06 11:38:11.553298 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: password in /var/www/html/practicehtml/validate_signup.php on line 30
+[Thu Sep 06 11:38:11.553307 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: repassword in /var/www/html/practicehtml/validate_signup.php on line 44
+[Thu Sep 06 11:38:11.557080 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: HTTP_REFERER in /var/www/html/practicehtml/validate_signup.php on line 3
+[Thu Sep 06 11:38:11.557123 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: name in /var/www/html/practicehtml/validate_signup.php on line 9
+[Thu Sep 06 11:38:11.557136 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: email in /var/www/html/practicehtml/validate_signup.php on line 20
+[Thu Sep 06 11:38:11.557145 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: password in /var/www/html/practicehtml/validate_signup.php on line 30
+[Thu Sep 06 11:38:11.557154 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: repassword in /var/www/html/practicehtml/validate_signup.php on line 44
+[Thu Sep 06 11:38:11.561734 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: HTTP_REFERER in /var/www/html/practicehtml/validate_signup.php on line 3
+[Thu Sep 06 11:38:11.561776 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: name in /var/www/html/practicehtml/validate_signup.php on line 9
+[Thu Sep 06 11:38:11.561789 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: email in /var/www/html/practicehtml/validate_signup.php on line 20
+[Thu Sep 06 11:38:11.561799 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: password in /var/www/html/practicehtml/validate_signup.php on line 30
+[Thu Sep 06 11:38:11.561809 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: repassword in /var/www/html/practicehtml/validate_signup.php on line 44
+[Thu Sep 06 11:38:11.571447 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: HTTP_REFERER in /var/www/html/practicehtml/validate_signup.php on line 3
+[Thu Sep 06 11:38:11.571478 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: name in /var/www/html/practicehtml/validate_signup.php on line 9
+[Thu Sep 06 11:38:11.571486 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: email in /var/www/html/practicehtml/validate_signup.php on line 20
+[Thu Sep 06 11:38:11.571491 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: password in /var/www/html/practicehtml/validate_signup.php on line 30
+[Thu Sep 06 11:38:11.571497 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: repassword in /var/www/html/practicehtml/validate_signup.php on line 44
+[Thu Sep 06 11:38:11.573500 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: HTTP_REFERER in /var/www/html/practicehtml/validate_signup.php on line 3
+[Thu Sep 06 11:38:11.573536 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: name in /var/www/html/practicehtml/validate_signup.php on line 9
+[Thu Sep 06 11:38:11.573546 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: email in /var/www/html/practicehtml/validate_signup.php on line 20
+[Thu Sep 06 11:38:11.573552 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: password in /var/www/html/practicehtml/validate_signup.php on line 30
+[Thu Sep 06 11:38:11.573557 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: repassword in /var/www/html/practicehtml/validate_signup.php on line 44
+[Thu Sep 06 11:38:11.575601 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: HTTP_REFERER in /var/www/html/practicehtml/validate_signup.php on line 3
+[Thu Sep 06 11:38:11.575635 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: name in /var/www/html/practicehtml/validate_signup.php on line 9
+[Thu Sep 06 11:38:11.575645 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: email in /var/www/html/practicehtml/validate_signup.php on line 20
+[Thu Sep 06 11:38:11.575652 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: password in /var/www/html/practicehtml/validate_signup.php on line 30
+[Thu Sep 06 11:38:11.575660 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: repassword in /var/www/html/practicehtml/validate_signup.php on line 44
+[Thu Sep 06 11:38:11.577511 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: HTTP_REFERER in /var/www/html/practicehtml/validate_signup.php on line 3
+[Thu Sep 06 11:38:11.577540 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: name in /var/www/html/practicehtml/validate_signup.php on line 9
+[Thu Sep 06 11:38:11.577547 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: email in /var/www/html/practicehtml/validate_signup.php on line 20
+[Thu Sep 06 11:38:11.577553 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: password in /var/www/html/practicehtml/validate_signup.php on line 30
+[Thu Sep 06 11:38:11.577558 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: repassword in /var/www/html/practicehtml/validate_signup.php on line 44
+[Thu Sep 06 11:38:11.579804 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: HTTP_REFERER in /var/www/html/practicehtml/validate_signup.php on line 3
+[Thu Sep 06 11:38:11.579833 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: name in /var/www/html/practicehtml/validate_signup.php on line 9
+[Thu Sep 06 11:38:11.579841 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: email in /var/www/html/practicehtml/validate_signup.php on line 20
+[Thu Sep 06 11:38:11.579858 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: password in /var/www/html/practicehtml/validate_signup.php on line 30
+[Thu Sep 06 11:38:11.579863 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: repassword in /var/www/html/practicehtml/validate_signup.php on line 44
+[Thu Sep 06 11:38:11.586967 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: HTTP_REFERER in /var/www/html/practicehtml/validate_signup.php on line 3
+[Thu Sep 06 11:38:11.587005 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: name in /var/www/html/practicehtml/validate_signup.php on line 9
+[Thu Sep 06 11:38:11.587015 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: email in /var/www/html/practicehtml/validate_signup.php on line 20
+[Thu Sep 06 11:38:11.587022 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: password in /var/www/html/practicehtml/validate_signup.php on line 30
+[Thu Sep 06 11:38:11.587029 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: repassword in /var/www/html/practicehtml/validate_signup.php on line 44
+[Thu Sep 06 11:38:11.589112 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: HTTP_REFERER in /var/www/html/practicehtml/validate_signup.php on line 3
+[Thu Sep 06 11:38:11.589142 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: name in /var/www/html/practicehtml/validate_signup.php on line 9
+[Thu Sep 06 11:38:11.589149 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: email in /var/www/html/practicehtml/validate_signup.php on line 20
+[Thu Sep 06 11:38:11.589155 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: password in /var/www/html/practicehtml/validate_signup.php on line 30
+[Thu Sep 06 11:38:11.589160 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: repassword in /var/www/html/practicehtml/validate_signup.php on line 44
+[Thu Sep 06 11:38:11.590941 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: HTTP_REFERER in /var/www/html/practicehtml/validate_signup.php on line 3
+[Thu Sep 06 11:38:11.590973 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: name in /var/www/html/practicehtml/validate_signup.php on line 9
+[Thu Sep 06 11:38:11.590984 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: email in /var/www/html/practicehtml/validate_signup.php on line 20
+[Thu Sep 06 11:38:11.590993 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: password in /var/www/html/practicehtml/validate_signup.php on line 30
+[Thu Sep 06 11:38:11.591002 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: repassword in /var/www/html/practicehtml/validate_signup.php on line 44
+[Thu Sep 06 11:38:11.593450 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: HTTP_REFERER in /var/www/html/practicehtml/validate_signup.php on line 3
+[Thu Sep 06 11:38:11.593489 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: name in /var/www/html/practicehtml/validate_signup.php on line 9
+[Thu Sep 06 11:38:11.593501 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: email in /var/www/html/practicehtml/validate_signup.php on line 20
+[Thu Sep 06 11:38:11.593510 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: password in /var/www/html/practicehtml/validate_signup.php on line 30
+[Thu Sep 06 11:38:11.593516 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: repassword in /var/www/html/practicehtml/validate_signup.php on line 44
+[Thu Sep 06 11:38:11.596555 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: HTTP_REFERER in /var/www/html/practicehtml/validate_signup.php on line 3
+[Thu Sep 06 11:38:11.596604 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: name in /var/www/html/practicehtml/validate_signup.php on line 9
+[Thu Sep 06 11:38:11.596616 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: email in /var/www/html/practicehtml/validate_signup.php on line 20
+[Thu Sep 06 11:38:11.596624 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: password in /var/www/html/practicehtml/validate_signup.php on line 30
+[Thu Sep 06 11:38:11.596632 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: repassword in /var/www/html/practicehtml/validate_signup.php on line 44
+[Thu Sep 06 11:38:11.599260 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: HTTP_REFERER in /var/www/html/practicehtml/validate_signup.php on line 3
+[Thu Sep 06 11:38:11.599298 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: name in /var/www/html/practicehtml/validate_signup.php on line 9
+[Thu Sep 06 11:38:11.599311 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: email in /var/www/html/practicehtml/validate_signup.php on line 20
+[Thu Sep 06 11:38:11.599321 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: password in /var/www/html/practicehtml/validate_signup.php on line 30
+[Thu Sep 06 11:38:11.599330 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: repassword in /var/www/html/practicehtml/validate_signup.php on line 44
+[Thu Sep 06 11:38:11.601438 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: HTTP_REFERER in /var/www/html/practicehtml/validate_signup.php on line 3
+[Thu Sep 06 11:38:11.601482 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: name in /var/www/html/practicehtml/validate_signup.php on line 9
+[Thu Sep 06 11:38:11.601497 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: email in /var/www/html/practicehtml/validate_signup.php on line 20
+[Thu Sep 06 11:38:11.601505 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: password in /var/www/html/practicehtml/validate_signup.php on line 30
+[Thu Sep 06 11:38:11.601511 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: repassword in /var/www/html/practicehtml/validate_signup.php on line 44
+[Thu Sep 06 11:38:11.603908 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: HTTP_REFERER in /var/www/html/practicehtml/validate_signup.php on line 3
+[Thu Sep 06 11:38:11.603942 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: name in /var/www/html/practicehtml/validate_signup.php on line 9
+[Thu Sep 06 11:38:11.603951 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: email in /var/www/html/practicehtml/validate_signup.php on line 20
+[Thu Sep 06 11:38:11.603957 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: password in /var/www/html/practicehtml/validate_signup.php on line 30
+[Thu Sep 06 11:38:11.603963 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: repassword in /var/www/html/practicehtml/validate_signup.php on line 44
+[Thu Sep 06 11:38:11.607033 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: HTTP_REFERER in /var/www/html/practicehtml/validate_signup.php on line 3
+[Thu Sep 06 11:38:11.607068 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: name in /var/www/html/practicehtml/validate_signup.php on line 9
+[Thu Sep 06 11:38:11.607078 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: email in /var/www/html/practicehtml/validate_signup.php on line 20
+[Thu Sep 06 11:38:11.607084 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: password in /var/www/html/practicehtml/validate_signup.php on line 30
+[Thu Sep 06 11:38:11.607112 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: repassword in /var/www/html/practicehtml/validate_signup.php on line 44
+[Thu Sep 06 11:38:11.613174 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: HTTP_REFERER in /var/www/html/practicehtml/validate_signup.php on line 3
+[Thu Sep 06 11:38:11.613215 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: name in /var/www/html/practicehtml/validate_signup.php on line 9
+[Thu Sep 06 11:38:11.613227 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: email in /var/www/html/practicehtml/validate_signup.php on line 20
+[Thu Sep 06 11:38:11.613237 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: password in /var/www/html/practicehtml/validate_signup.php on line 30
+[Thu Sep 06 11:38:11.613246 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: repassword in /var/www/html/practicehtml/validate_signup.php on line 44
+[Thu Sep 06 11:38:11.616985 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: HTTP_REFERER in /var/www/html/practicehtml/validate_signup.php on line 3
+[Thu Sep 06 11:38:11.617024 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: name in /var/www/html/practicehtml/validate_signup.php on line 9
+[Thu Sep 06 11:38:11.617037 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: email in /var/www/html/practicehtml/validate_signup.php on line 20
+[Thu Sep 06 11:38:11.617047 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: password in /var/www/html/practicehtml/validate_signup.php on line 30
+[Thu Sep 06 11:38:11.617057 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: repassword in /var/www/html/practicehtml/validate_signup.php on line 44
+[Thu Sep 06 11:38:11.619699 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: HTTP_REFERER in /var/www/html/practicehtml/validate_signup.php on line 3
+[Thu Sep 06 11:38:11.619733 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: name in /var/www/html/practicehtml/validate_signup.php on line 9
+[Thu Sep 06 11:38:11.619744 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: email in /var/www/html/practicehtml/validate_signup.php on line 20
+[Thu Sep 06 11:38:11.619752 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: password in /var/www/html/practicehtml/validate_signup.php on line 30
+[Thu Sep 06 11:38:11.619761 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: repassword in /var/www/html/practicehtml/validate_signup.php on line 44
+[Thu Sep 06 11:38:11.622156 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: HTTP_REFERER in /var/www/html/practicehtml/validate_signup.php on line 3
+[Thu Sep 06 11:38:11.622194 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: name in /var/www/html/practicehtml/validate_signup.php on line 9
+[Thu Sep 06 11:38:11.622208 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: email in /var/www/html/practicehtml/validate_signup.php on line 20
+[Thu Sep 06 11:38:11.622218 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: password in /var/www/html/practicehtml/validate_signup.php on line 30
+[Thu Sep 06 11:38:11.622227 2018] [:error] [pid 3734] [client 127.0.0.1:60786] PHP Notice:  Undefined index: repassword in /var/www/html/practicehtml/validate_signup.php on line 44
+[Thu Sep 06 11:38:34.035150 2018] [:error] [pid 3735] [client 127.0.0.1:60792] PHP Notice:  Undefined index: name in /var/www/html/practicehtml/validate_signup.php on line 9, referer: http://localhost/
+[Thu Sep 06 11:38:34.035230 2018] [:error] [pid 3735] [client 127.0.0.1:60792] PHP Notice:  Undefined index: email in /var/www/html/practicehtml/validate_signup.php on line 20, referer: http://localhost/
+[Thu Sep 06 11:38:34.035281 2018] [:error] [pid 3735] [client 127.0.0.1:60792] PHP Notice:  Undefined index: password in /var/www/html/practicehtml/validate_signup.php on line 30, referer: http://localhost/
+[Thu Sep 06 11:38:34.035291 2018] [:error] [pid 3735] [client 127.0.0.1:60792] PHP Notice:  Undefined index: repassword in /var/www/html/practicehtml/validate_signup.php on line 44, referer: http://localhost/
+[Thu Sep 06 11:38:35.793974 2018] [:error] [pid 3735] [client 127.0.0.1:60792] PHP Notice:  Undefined index: name in /var/www/html/practicehtml/validate_signup.php on line 9, referer: http://localhost/
+[Thu Sep 06 11:38:35.794042 2018] [:error] [pid 3735] [client 127.0.0.1:60792] PHP Notice:  Undefined index: email in /var/www/html/practicehtml/validate_signup.php on line 20, referer: http://localhost/
+[Thu Sep 06 11:38:35.794064 2018] [:error] [pid 3735] [client 127.0.0.1:60792] PHP Notice:  Undefined index: password in /var/www/html/practicehtml/validate_signup.php on line 30, referer: http://localhost/
+[Thu Sep 06 11:38:35.794082 2018] [:error] [pid 3735] [client 127.0.0.1:60792] PHP Notice:  Undefined index: repassword in /var/www/html/practicehtml/validate_signup.php on line 44, referer: http://localhost/
+[Thu Sep 06 11:38:36.230147 2018] [:error] [pid 3735] [client 127.0.0.1:60792] PHP Notice:  Undefined index: name in /var/www/html/practicehtml/validate_signup.php on line 9, referer: http://localhost/
+[Thu Sep 06 11:38:36.230183 2018] [:error] [pid 3735] [client 127.0.0.1:60792] PHP Notice:  Undefined index: email in /var/www/html/practicehtml/validate_signup.php on line 20, referer: http://localhost/
+[Thu Sep 06 11:38:36.230192 2018] [:error] [pid 3735] [client 127.0.0.1:60792] PHP Notice:  Undefined index: password in /var/www/html/practicehtml/validate_signup.php on line 30, referer: http://localhost/
+[Thu Sep 06 11:38:36.230201 2018] [:error] [pid 3735] [client 127.0.0.1:60792] PHP Notice:  Undefined index: repassword in /var/www/html/practicehtml/validate_signup.php on line 44, referer: http://localhost/
+[Thu Sep 06 11:38:48.499072 2018] [:error] [pid 3783] [client 127.0.0.1:60796] PHP Notice:  Undefined index: name in /var/www/html/practicehtml/validate_signup.php on line 8, referer: http://localhost/
+[Thu Sep 06 11:38:48.499153 2018] [:error] [pid 3783] [client 127.0.0.1:60796] PHP Notice:  Undefined index: email in /var/www/html/practicehtml/validate_signup.php on line 19, referer: http://localhost/
+[Thu Sep 06 11:38:48.499195 2018] [:error] [pid 3783] [client 127.0.0.1:60796] PHP Notice:  Undefined index: password in /var/www/html/practicehtml/validate_signup.php on line 29, referer: http://localhost/
+[Thu Sep 06 11:38:48.499209 2018] [:error] [pid 3783] [client 127.0.0.1:60796] PHP Notice:  Undefined index: repassword in /var/www/html/practicehtml/validate_signup.php on line 43, referer: http://localhost/
+[Thu Sep 06 11:38:49.218860 2018] [:error] [pid 3783] [client 127.0.0.1:60796] PHP Notice:  Undefined index: name in /var/www/html/practicehtml/validate_signup.php on line 8, referer: http://localhost/
+[Thu Sep 06 11:38:49.218933 2018] [:error] [pid 3783] [client 127.0.0.1:60796] PHP Notice:  Undefined index: email in /var/www/html/practicehtml/validate_signup.php on line 19, referer: http://localhost/
+[Thu Sep 06 11:38:49.218966 2018] [:error] [pid 3783] [client 127.0.0.1:60796] PHP Notice:  Undefined index: password in /var/www/html/practicehtml/validate_signup.php on line 29, referer: http://localhost/
+[Thu Sep 06 11:38:49.218978 2018] [:error] [pid 3783] [client 127.0.0.1:60796] PHP Notice:  Undefined index: repassword in /var/www/html/practicehtml/validate_signup.php on line 43, referer: http://localhost/
+[Thu Sep 06 11:40:37.819874 2018] [:error] [pid 3731] [client 127.0.0.1:60810] script '/var/www/html/practicehtml/signup.php' not found or unable to stat, referer: http://localhost/
+[Thu Sep 06 11:40:39.267440 2018] [:error] [pid 3731] [client 127.0.0.1:60810] script '/var/www/html/practicehtml/signup.php' not found or unable to stat, referer: http://localhost/
